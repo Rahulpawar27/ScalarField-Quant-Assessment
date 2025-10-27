@@ -1,0 +1,15 @@
+# Python virtual environment
+venv/
+sec_qa_env/
+
+# API Keys and secrets file
+.env
+
+# Large data and database folders
+data/
+processed_text/
+chroma_db/
+
+# Python cache files
+__pycache__/
+*.pyc 
